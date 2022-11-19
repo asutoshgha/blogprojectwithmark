@@ -1,16 +1,17 @@
 ---
 title: "Post With Code"
 author: "Asutosh Ghanto"
-date: "2022-11-19"
+date: today
 categories: [news, code, analysis]
 image: "image.jpg"
 toc: true
 ---
 
-## This is the heading
-This is a post with executable code.
-```bash
-echo "fuck off"
-```
+## What is Quarto?
+- This is a library 
+
+:::{.callout-note}
+This is a note
+:::
 
 ![with this image](image.jpg)

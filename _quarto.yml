@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Asutosh Ghanto"
@@ -12,6 +13,10 @@ format:
   html:
     theme: sketchy
     css: styles.css
+    toc: true
+    number-sections: true
+    code-fold: true
+    code-line-numbers: true
 
 
 
